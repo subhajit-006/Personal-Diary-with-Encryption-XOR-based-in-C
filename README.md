@@ -1,0 +1,1 @@
+# Personal-Diary-with-Encryption-XOR-based-in-C
